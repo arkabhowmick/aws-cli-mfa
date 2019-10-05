@@ -1,0 +1,5 @@
+{
+    "arn_mfa" : "PUT YOUR ARM OF MFA DEVICE HERE. Example : arn:aws:iam::1234567890:mfa/test@gmail.com",
+    "profile" : "PUT YOUR AWS PROFILE HERE",
+    "credentials_file_path" : "PUT CREDENTIALS FILE PATH HERE. Example : /home/user/.aws/credentials"
+}
